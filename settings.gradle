@@ -1,0 +1,2 @@
+rootProject.name='MyPlanningHome'
+include ':app'
